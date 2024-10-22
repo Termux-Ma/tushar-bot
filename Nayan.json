@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "CYBER-BOT",
-  "PREFIX": "/",
+  "PREFIX": "1",
   "OPERATOR": [
     "100000810273670",
     "100000684098385",
